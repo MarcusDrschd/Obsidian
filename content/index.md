@@ -11,5 +11,6 @@ Does this link already work?
 Yeah it does thats really nice
 [[notes]]
 what about this?
-[Open file](/home/marcus/quartz/quartz/static/files/)
-[[/home/marcus/quartz/quartz/static/files/ | Stunden]]
+[Open file](/home/marcus/quartz/quartz/static/files/Stunden.xlsx)
+[[/home/marcus/quartz/quartz/static/files/Stunden.xlsx| Stunden]]
+
