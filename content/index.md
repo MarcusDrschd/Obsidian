@@ -11,6 +11,7 @@ Does this link already work?
 Yeah it does thats really nice
 [[notes]]
 what about this?
-[Stunden.xlsx](file:/home/marcus/Downloads/)
+[[/home/marcus/Downloads/ | Stunden]]
+
 
 [[test.xlsx]]
