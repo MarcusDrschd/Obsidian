@@ -11,7 +11,3 @@ Does this link already work?
 Yeah it does thats really nice
 [[notes]]
 what about this?
-[[/home/marcus/Downloads/ | Stunden]]
-
-
-[[test.xlsx]]
