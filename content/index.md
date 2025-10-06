@@ -10,3 +10,7 @@ This is the website but how do i link it with obsidian?
 Does this link already work?
 Yeah it does thats really nice
 [[notes]]
+what about this?
+[Stunden.xlsx](file:/home/marcus/Downloads/)
+
+[[test.xlsx]]
