@@ -1,1 +1,0 @@
-/home/marcus/quartz/quartz/static/files/
